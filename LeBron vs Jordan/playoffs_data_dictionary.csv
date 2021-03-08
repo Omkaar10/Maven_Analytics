@@ -1,0 +1,28 @@
+﻿Field,Description
+game,Playoff game
+date,Date (yyyy-mm-dd)
+series,"Series name (EC = Eastern Conference, WC = Western Conference, 1 = First Round, S = Conference Semifinals, F = Conference Finals, FIN = NBA Finals)"
+series_game,Series game number
+team,Player's team
+opp,Opponent
+result,Win (W) or Loss (L) with the point differential in parenthesis
+mp,Minutes played
+fg,Field goals made
+fga,Field goals attempted
+fgp,Field goal percentage
+three,3-point field goals made
+threeatt,3-point field goals attempted
+threep,3-point field goal percentage
+ft,Free throws made
+fta,Free throws attempted
+ftp,Free throw percentage
+orb,Offensive rebounds
+drb,Defensive rebounds
+trb,Total rebounds
+ast,Assists
+stl,Steals
+blk,Blocks
+tov,Turnovers
+pts,Points scored
+game_score,Statistical measure of a player's productivity for a single game
+minus_plus,"Statistical measure of a player's impact on the game, represented by the difference between their team's total scoring versus their opponent's when the player is in the game"
